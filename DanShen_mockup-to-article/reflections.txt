@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. I learnt the three new elements like superscript,horizontal rule, and strikethrough. I can bulid a web page all by myself.
+2. The HTML is not so hard as I thought before. Elements are easy to learn.The HTML tree is easy to understand too.
+3. The new elements are a little bit diffcult if you do not know the name of the element or what the new element look like.
+4. The problems I had were sloved by me and my husband. My husband knows a little bit programming, he helped me with my questions. We also checked a couple questions online. 
